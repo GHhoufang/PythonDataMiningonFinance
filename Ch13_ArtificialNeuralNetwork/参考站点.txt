@@ -1,0 +1,5 @@
+梯度下降与后向传播
+https://www.jianshu.com/p/c7e642877b0e
+https://www.zhihu.com/question/314879954/answer/638380202?utm_source=wechat_session&utm_medium=social&utm_oi=945068637548269568
+B站动画
+https://www.bilibili.com/video/BV1bx411M7Zx
